@@ -1,0 +1,32 @@
+# Web framework
+streamlit>=1.25.0
+
+# Transformers and NLP
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+torch>=1.13.0          # Required backend for transformers and sentence-transformers
+scikit-learn>=1.0.2
+numpy>=1.21.0
+
+# Grammar checking
+language-tool-python>=2.7.1
+
+# Named Entity Recognition (NER)
+spacy>=3.5.0
+# After installing, run: python -m spacy download en_core_web_sm
+
+# Domain and URL parsing / validation
+tldextract>=3.5.0
+validators>=0.20.0
+
+# Regex enhancements (if used)
+regex>=2022.10.31
+
+# Utilities (optional but useful)
+tqdm>=4.64.0
+
+# For logging or other utilities if used
+loguru>=0.7.0
+
+# Optional - For image processing if your app uses images or logos
+Pillow>=9.4.0
