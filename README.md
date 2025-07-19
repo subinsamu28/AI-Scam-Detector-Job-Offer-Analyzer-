@@ -20,7 +20,9 @@ AI‑powered Rust &amp; WebAssembly web app that parses your PDF/DOCX resume and
 
 <!-- Screenshot/GIF showcasing the UI -->
 <p align="center">
-  <img src="assets/ai_scam_detector_demo.png" alt="AI Scam Detector Demo" width="80%" style="border: 1px solid #ccc; border-radius: 8px; box-shadow: 0 0 5px #aaa;">
+  <img width="2559" height="1368" alt="image" src="https://github.com/user-attachments/assets/4e6e2ca4-a723-4d06-a8ee-0d8aba4aec08" />
+  <img width="2460" height="902" alt="image" src="https://github.com/user-attachments/assets/f23b8a68-3c74-4c01-87c1-d2841573c716" />
+  <img width="2472" height="1189" alt="image" src="https://github.com/user-attachments/assets/bb800e0f-a7cb-4384-868b-bfabd83aedad" />
 </p>
 
 ## 📦 Installation and Setup
