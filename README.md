@@ -171,10 +171,10 @@ This project is released under the **MIT License** © 2025. See the [LICENSE](LI
 
 For any questions or support, please reach out or join our community:
 
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=flat&logo=github)](https://github.com/yourusername/AI-Scam-Detector)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourInviteCode)
+[![Email](https://img.shields.io/badge/Email-contact%40example.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subinsamu28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subin-samu/)
+[![GitHub](https://img.shields.io/badge/GitHub-Project-181717?style=flat&logo=github)](https://github.com/subinsamu28/job-offer-email-scam-detector.git)
+
 
 ## 🎉 Acknowledgments & Credits
 
