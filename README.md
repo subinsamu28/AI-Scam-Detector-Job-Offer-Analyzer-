@@ -30,7 +30,7 @@ AI‑powered Rust &amp; WebAssembly web app that parses your PDF/DOCX resume and
 **Get Started:**
 
 1. **Download or Clone:** Get the latest code:
-   - 📥 **[Download ZIP](AI-Scam-Detector.zip)** or `git clone https://github.com/yourusername/AI-Scam-Detector.git`
+   - 📥 **[Download ZIP](https://github.com/subinsamu28/job-offer-email-scam-detector/archive/refs/heads/main.zip)** or `git clone https://github.com/yourusername/AI-Scam-Detector.git`
 2. **Python Setup:** Make sure Python 3.10+ is installed on your system.
 3. **Virtual Environment (Optional):** Create and activate a virtual environment for the project:
    ```bash
