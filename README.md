@@ -1,6 +1,5 @@
 # AI Scam Detector – Job Offer Analyzer 
-AI‑powered Rust &amp; WebAssembly web app that parses your PDF/DOCX resume and job description to generate 100 % ATS‑compliant Europass CVs and cover letters in real time.  
-
+AI-powered scam detection system that analyzes job offer emails through six analysis layers — transformer classification, NER, semantic similarity, rule-based scanning, grammar analysis, and domain verification — delivering explainable risk scores via a Streamlit dashboard.
 
 
 <h1 align="center">🔎 <strong>AI Scam Detector – Job Offer Analyzer</strong> 🛡️</h1>
